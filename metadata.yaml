@@ -1,0 +1,27 @@
+_repo: The-Book-of-Hallowe-en_20644
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kelley, Ruth Edna
+    gutenberg_agent_id: '9435'
+    url: http://www.gutenberg.org/2009/agents/9435
+description: '"...is intended to give the reader an account of the origin and history
+  of Hallowe''en, [and] how it absorbed some customs belonging to other days of the
+  year." --From Preface.'
+gutenberg_issued: '2007-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20644'
+  lccn: '19015168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Halloween'
+title: The Book of Hallowe'en
+url: http://www.gutenberg.org/ebooks/20644
